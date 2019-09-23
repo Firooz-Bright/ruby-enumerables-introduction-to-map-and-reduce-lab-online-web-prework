@@ -18,4 +18,13 @@ def reduce_to_total(source_array, starting_point)
    source_array.map{|a| a+= starting_point}
 end 
 
-def 
+def reduce_to_all_true(source_array)
+  
+  
+  
+  
+  
+  
+  
+  
+  
